@@ -100,4 +100,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-© 2024 Brian Kioko. All rights reserved.
+© 2025 Brian Kioko. All rights reserved.
